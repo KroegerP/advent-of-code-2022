@@ -1,0 +1,4 @@
+Calories - input
+list of integers, each integer
+in a row represents one person's
+calories that they have
